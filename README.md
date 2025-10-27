@@ -17,7 +17,7 @@
 
 ---
 ### 📂 Featured Projects  
-🏀 [NBA Salary & Performance Analysis](https://github.com/moran-teaching/project-group-5)  
+🏀 [NBA Salary & Performance Analysis](https://github.com/AllenLin0703/2020-2024_NBA_Salary_Analysis)  
   Study correlation between player stats and salary ROI.  
 
   ### 📫 Contact Me  

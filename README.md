@@ -20,6 +20,9 @@
 🏀 [NBA Salary & Performance Analysis](https://github.com/AllenLin0703/2020-2024_NBA_Salary_Analysis)  
   Study correlation between player stats and salary ROI.  
 
+🎬 [Movie Data Analysis (EDA)](https://github.com/AllenLin0703/Movie_Data_Analysis-EDA)  
+Explore trends in genres, popularity, and ratings across 9,000+ movies from TMDB.
+
   ### 📫 Contact Me  
 - 📧 [allenlin0703@gmail.com](mailto:allenlin0703@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/allenlin0703)  

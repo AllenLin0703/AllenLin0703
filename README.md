@@ -10,7 +10,7 @@
 ### 🧠 Skills  
 - **Languages:** Python, R, SQL  
 - **Libraries:** Pandas, NumPy, Scikit-learn, ggplot2, tidyverse  
-- **Database / Cloud:** MySQL, SQLite, Snowflake, BigQuery, AWS  
+- **Database / Cloud:** MySQL, SQLite, NoSQL, Mongo DB 
 - **Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
 - **Machine Learning:** Regression, Random Forest, XGBoost, BART  
 - **Tools:** Git, VSCode, JupyterLab, RStudio, AB Testing, Experimental Design  
